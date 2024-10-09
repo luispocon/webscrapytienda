@@ -1,4 +1,4 @@
-#__Web Scraping Project__
+# __Web Scraping Project__
 Este proyecto de web scraping está diseñado para extraer información de productos y precios del sitio de Kemik, específicamente de la categoría de tecnología. Utiliza requests y BeautifulSoup para la extracción de datos, y pandas para procesar y manipular la información. 
 
 ## __Características__
